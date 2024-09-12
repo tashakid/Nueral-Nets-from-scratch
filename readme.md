@@ -4,15 +4,15 @@ This project implements a neural network for digit recognition using the MNIST d
 
 ## Sample Output
 
-![Sample Digit Recognition1](/images/Screenshot from 2024-09-12 17-26-09.png)
+![Sample Digit Recognition1](images/image1.png)
 
 *Figure 1: Example of a recognized digit (9) from the MNIST dataset*
 
-![Sample Digit Recognition2](images/Screenshot from 2024-09-12 17-26-27.png)
+![Sample Digit Recognition2](images/image2.png)
 
 *Figure 2: Example of a recognized digit (0) from the MNIST dataset*
 
-![Sample Digit Recognition3](images/Screenshot from 2024-09-12 17-26-48.png)
+![Sample Digit Recognition3](images/image3.png)
 
 *Figure 3: Example of a recognized digit (7) from the MNIST dataset*
 
@@ -20,7 +20,7 @@ This project implements a neural network for digit recognition using the MNIST d
 
 The model shows consistent improvement in accuracy during training:
 
-![Sample Digit Recognition4](images/Screenshot from 2024-09-12 17-27-06.png)
+![Sample Digit Recognition4](images/image4.png)
 
 Final training accuracy after 1000 iterations: **90.00%**
 
@@ -28,7 +28,7 @@ Final training accuracy after 1000 iterations: **90.00%**
 
 After training, the model was evaluated on a separate test dataset:
 
-![Sample Digit Recognition5](images/Screenshot from 2024-09-12 17-27-26.png)
+![Sample Digit Recognition5](images/image5.png)
 
 The model achieves **87.1%** accuracy on unseen test data, demonstrating good generalization capabilities.
 
